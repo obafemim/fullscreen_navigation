@@ -252,4 +252,12 @@ input {
   li:hover::before {
       width: 0 !important;
   }
+
+  .col-lg.overlay {
+    position: fixed;
+  }
+
+  .our_story {
+    width: 65%;
+  }
 }
