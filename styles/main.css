@@ -237,9 +237,14 @@ input {
 }
 
 @media(max-width: 900px) {
+  body {
+    background: url(../images/jay-dantinne-199078-unsplash.jpg) no-repeat 50% 50%;
+    background-size: cover;
+  }
+
   h1 {
     font-size: 12px !important;
-    letter-spacing: 14px !important;
+    letter-spacing: 14px;
   }
 
   li {
