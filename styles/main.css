@@ -73,7 +73,7 @@ i {
 .col-lg.overlay {
   background: #000;
   position: absolute;
-  top: -100%;
+  top: -200%;
 }
 
 ul {
@@ -258,6 +258,17 @@ input {
   }
 
   .our_story {
+    font-size: 14px;
     width: 65%;
+  }
+
+  /* Contact Us */
+  #contact_form {
+    position: absolute;
+    top: 54%;
+  }
+
+  #button {
+    width: 60%;
   }
 }
